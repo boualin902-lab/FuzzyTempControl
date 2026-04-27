@@ -158,16 +158,4 @@ R6: SI chaud ET fièvre       →  Faible
 
 ---
 
-## 👩‍🎓 Auteurs
 
-**HAMMEDI NOURHEN** & **BOUALI NADA**  
-Filière : Génie Biomédical  
-Institut National des Technologies et des Sciences du Kef (INTeK)  
-Université de Jendouba — République Tunisienne
-
----
-
-## 📄 Licence
-
-Ce projet est distribué sous licence **MIT**.  
-Voir le fichier [LICENSE](LICENSE) pour plus de détails.
